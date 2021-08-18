@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://file:///Users/giannamarvilla/Documents/GitHub/Vanilla-Weather/index.html#",
+            "request": "launch",
+            "url": "http://file:///Users/giannamarvilla/Documents/GitHub/Vanilla-Weather/index.html#"
+        }
+    ]
+}
